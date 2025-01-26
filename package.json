@@ -2,7 +2,7 @@
   "name": "transparency-gavin",
   "displayName": "transparency-gavin",
   "description": "make vscode transparent ",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "GavinAperano",
   "engines": {
     "vscode": "^1.96.0"

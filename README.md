@@ -1,6 +1,13 @@
 Transparency Gavin
-Welcome to the README for your "Transparency Gavin" extension. After providing a brief description, we recommend including the following sections.
+==================
+This is a simple extension that allows you to change the transparency of the editor in Visual Studio Code.
+
+
 
 ![alt text](example.png)
 
-I would love some help to make this extension one of the best of the best!
+I would love some help or even some feedback on this project, so feel free to open an issue or a pull request.
+
+i will really appreciate a star on the github 
+
+repository : https://github.com/AperanoGavin/Vs-code-extension-transparency
