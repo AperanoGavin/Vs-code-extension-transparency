@@ -40,5 +40,10 @@
     "typescript": "^5.7.2",
     "@vscode/test-cli": "^0.0.10",
     "@vscode/test-electron": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AperanoGavin/Vs-code-extension-transparency"
   }
+
 }
