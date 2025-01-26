@@ -1,0 +1,32 @@
+/* Transparence complète pour VS Code */
+body {
+    background: transparent !important;
+}
+
+.monaco-workbench,
+.monaco-editor,
+.monaco-editor-background,
+.sidebar,
+.side-bar,
+.activity-bar,
+.panel,
+.title-bar,
+.tabs,
+.tab,
+.statusbar,
+.terminal {
+    background: transparent !important;
+}
+
+/* Préserver la lisibilité */
+.monaco-editor {
+    background: rgba(30, 30, 30, 0.1) !important;
+}
+
+.monaco-list-row {
+    background: transparent !important;
+}
+
+.monaco-list-row:hover {
+    background: rgba(255, 255, 255, 0.1) !important;
+}
